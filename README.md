@@ -9,8 +9,13 @@ Notebooks for CNN theories in different implementing ways/ classification proble
 - Notebooks from `CNN in TensorFlow`
 
 ### Classification Projects
+
+[cats_v_dogs_classification](https://github.com/yiyichanmyae/CNN/blob/main/tensorflow_dev_assignments/cnn_in_TF/C2W1_Assignment_cats_v_dogs_classification.ipynb)
+- Image Binary Classification with Simple CNN
+- Used `ImageDataGenerator`
+
 [cats_v_dogs_augmentation.ipynb](https://github.com/yiyichanmyae/CNN/blob/main/tensorflow_dev_assignments/cnn_in_TF/C2W2_Lab1_cats_v_dogs_augmentation.ipynb)
-- applying `Data Augmentation` by using `Image Data Generator`
+- applying `Data Augmentation` by using `ImageDataGenerator`
 - it shows Data Augmentation can help to avoid `Overfitting`.
 
 [horses_v_humans_augmentation.ipynb](https://github.com/yiyichanmyae/CNN/blob/main/tensorflow_dev_assignments%20/cnn_in_TF/C2W2_Lab2_horses_v_humans_augmentation.ipynb)
