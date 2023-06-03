@@ -25,3 +25,5 @@
 - applying `Data Augmentation` by using `ImageDataGenerator`
 - total cat images : 15000
 - total dog images : 15000
+
+## Week 3 : Transfer Learning
