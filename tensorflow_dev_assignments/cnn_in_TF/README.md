@@ -27,10 +27,17 @@
 - total dog images : 15000
 
 ## Week 3 : Transfer Learning
-[transfer_learning.ipynb](https://github.com/yiyichanmyae/CNN/blob/main/tensorflow_dev_assignments/cnn_in_TF/C2W3_Lab1_transfer_learning.ipynb)
+[transfer_learning_cats_v_dogs.ipynb](https://github.com/yiyichanmyae/CNN/blob/main/tensorflow_dev_assignments/cnn_in_TF/C2W3_Lab1_transfer_learning.ipynb)
+- Problem : Binary Classification
 - use the pretrained [InceptionV3](https://storage.googleapis.com/mledu-datasets/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5) model as the based model
 - freeze the layers not to get retrained
 - chose a layer as the last layer to use as the base model
 - create a DNN including Dropout Layers
 - preprocess the customized data to be trained ( e.g., the cat vs dog data )
 - train the model and evaluate it
+
+[transfer_learning_horses_v_humans.ipynb](https://github.com/yiyichanmyae/CNN/blob/main/tensorflow_dev_assignments/cnn_in_TF/C2W3_Assignment_horses_v_humans.ipynb)
+- Problem : Binary Classification
+- use the pretrained [InceptionV3](https://storage.googleapis.com/mledu-datasets/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5) model as the based model
+- `Transfer Learning`, `Data Augmentation`
+- this is the solution of the [assignment3](https://github.com/yiyichanmyae/CNN/blob/main/tensorflow_dev_assignments/cnn_in_TF/C2W3_Assignment.ipynb)
