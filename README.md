@@ -37,8 +37,8 @@ ______________________________________________________________
 
 ## Multiclass Classification
 [multiclass_classifier.ipynb](https://github.com/yiyichanmyae/CNN/blob/main/tensorflow_dev_assignments/cnn_in_TF/C2W4_Lab1_multi_class_classifier.ipynb)
-Problem : Multiclass Classification
-Dataset : Rock Paper Scissors dataset
+- Problem : Multiclass Classification
+- Dataset : Rock Paper Scissors dataset
 
 [multiclass_signlanguage.ipynb](https://github.com/yiyichanmyae/CNN/blob/main/tensorflow_dev_assignments/cnn_in_TF/C2W4_Assignment_SignLanguage.ipynb)
 - Problem : Multiclass Classification
