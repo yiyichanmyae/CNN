@@ -42,6 +42,12 @@
 - `Transfer Learning`, `Data Augmentation`
 - this is the solution of the [assignment3](https://github.com/yiyichanmyae/CNN/blob/main/tensorflow_dev_assignments/cnn_in_TF/C2W3_Assignment.ipynb)
 
+## Week 4 : Multiclass Classification
+[multiclass_classifier.ipynb](https://github.com/yiyichanmyae/CNN/blob/main/tensorflow_dev_assignments/cnn_in_TF/C2W4_Lab1_multi_class_classifier.ipynb)
+- Problem : Multiclass Classification
+- Dataset : Rock Paper Scissors dataset
+
+
 # Datasets
 
 ### Rock Paper Scissors
