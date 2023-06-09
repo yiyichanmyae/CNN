@@ -34,3 +34,8 @@ ______________________________________________________________
 - create a DNN including Dropout Layers
 - preprocess the customized data to be trained ( e.g., the cat vs dog data )
 - train the model and evaluate it
+
+## Multiclass Classification
+[multiclass_classifier.ipynb](https://github.com/yiyichanmyae/CNN/blob/main/tensorflow_dev_assignments/cnn_in_TF/C2W4_Lab1_multi_class_classifier.ipynb)
+Problem : Multiclass Classification
+Dataset : Rock Paper Scissors dataset
