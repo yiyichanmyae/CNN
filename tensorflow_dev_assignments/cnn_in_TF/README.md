@@ -47,6 +47,10 @@
 - Problem : Multiclass Classification
 - Dataset : Rock Paper Scissors dataset
 
+[multiclass_signlanguage.ipynb](https://github.com/yiyichanmyae/CNN/blob/main/tensorflow_dev_assignments/cnn_in_TF/C2W4_Assignment_SignLanguage.ipynb)
+- Problem : Multiclass Classification
+- Dataset : [Sign Language MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
+- Different data input with [multiclass_classifier.ipynb](https://github.com/yiyichanmyae/CNN/blob/main/tensorflow_dev_assignments/cnn_in_TF/C2W4_Lab1_multi_class_classifier.ipynb)
 
 # Datasets
 
@@ -58,3 +62,7 @@ Rock Paper Scissors contains images from a variety of different hands,  from dif
 here.
 Note that all of this data is posed against a white background.
 Each image is 300×300 pixels in 24-bit color
+
+### Sign Language MNIST
+[Sign Language MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist) 
+The dataset format is patterned to match closely with the classic MNIST. Each training and test case represents a label (0-25) as a one-to-one map for each alphabetic letter A-Z (and no cases for 9=J or 25=Z because of gesture motions). The training data (27,455 cases) and test data (7172 cases) are approximately half the size of the standard MNIST but otherwise similar with a header row of label, pixel1,pixel2….pixel784 which represent a single 28x28 pixel image with grayscale values between 0-255. The original hand gesture image data represented multiple users repeating the gesture against different backgrounds. The Sign Language MNIST data came from greatly extending the small number (1704) of the color images included as not cropped around the hand region of interest. 
